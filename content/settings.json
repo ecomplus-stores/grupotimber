@@ -4,7 +4,7 @@
   "primary_color": "#050505",
   "theme": {
     "bootswatch": "minty",
-    "custom": "clean-white"
+    "custom": "clean-dark"
   },
   "bg_color": "#060307",
   "repository": "ecomplus-stores/grupotimber",
