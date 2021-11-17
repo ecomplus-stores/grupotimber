@@ -1,24 +1,24 @@
 {
-  "store_id": 16006,
-  "name": "grupotimber",
   "domain": "grupotimber.netlify.app",
-  "short_name": "grupotimber",
-  "description": "grupotimber",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#050505",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "minty",
+    "custom": "clean-dark"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#060307",
+  "repository": "ecomplus-stores/grupotimber",
+  "logo": "/img/uploads/timber_collection_branco.pdf-02.png",
+  "name": "Timber Collection",
+  "short_name": "Timber Collection",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/timber_collection_branco.pdf-02.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/grupotimber"
+  "secondary_color": "#030302",
+  "icon": "/img/uploads/timber_collection_branco.pdf-02.png",
+  "store_id": 16006,
+  "description": "Venda de itens",
+  "large_icon": "/img/uploads/timber_collection_branco.pdf-02.png"
 }
