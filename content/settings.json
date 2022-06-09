@@ -1,7 +1,7 @@
 {
   "domain": "grupotimber.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#050505",
+  "primary_color": "#fdc112",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -19,6 +19,6 @@
   "secondary_color": "#f1f0ea",
   "icon": "/img/uploads/timber_collection_branco.pdf-01.png",
   "store_id": 16006,
-  "description": "Venda de itens",
+  "description": "Venda de itens\n\n#FDC112",
   "large_icon": "/img/uploads/timber_collection_branco.pdf-01.png"
 }
