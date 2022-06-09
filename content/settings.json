@@ -14,11 +14,13 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
+  "font_family": "_",
   "favicon": "/img/uploads/timber_collection_branco.pdf-01.png",
+  "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#f1f0ea",
+  "secondary_color": "#212529",
   "icon": "/img/uploads/timber_collection_branco.pdf-01.png",
   "store_id": 16006,
-  "description": "Venda de itens\n\n#FDC112",
+  "description": "Loja de itens do grupo Timber.\n\nSomos especializados em promover a competitividade em operações florestais, construção civil, mineração e movimentação de materiais, desde 2002. Muito mais que vender máquinas com a mais avançada tecnologia embarcada, fornecemos apoio incondicional para entregar a maior disponibilidade mecânica e, mais, que estes equipamentos permaneçam operando com a mais alta performance. Afinal de contas, nossa relação é de parceria e seu sucesso é o que nos move. \n",
   "large_icon": "/img/uploads/timber_collection_branco.pdf-01.png"
 }
