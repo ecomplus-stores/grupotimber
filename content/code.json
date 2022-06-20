@@ -1,5 +1,5 @@
 {
-  "css": ".header {\n    background: #231f20;\n}\n.header__category {\n    color: #ffffff;\n}\n.top-bar {\n    background: #231f20;\n}\n.top-bar__nav{\n    color: #ffffff;\n}\n.header__toggler-icon {\ncolor: #ffffff;\n}\n.header__buttons .btn{\n  color: #ffffff;\n}\n\n",
+  "css": ".header {\n    background: #231f20;\n}\n.header__category {\n    color: #ffffff;\n}\n.top-bar {\n    background: #231f20;\n}\n.top-bar__nav{\n    color: #ffffff;\n}\n.header__toggler-icon {\ncolor: #ffffff;\n}\n.header__buttons .btn{\n  color: #ffffff;\n}\n.product-card__name{\n  color: #231f20;\n}\n\n\n",
   "html_head": "",
   "html_body": ""
 }
