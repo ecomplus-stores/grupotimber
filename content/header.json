@@ -14,7 +14,9 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/lancamentos?Lançamentos"
+    ],
     "random": 8,
     "full_width": true
   },
