@@ -3,6 +3,11 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner_1920x500-1-.png",
+      "mobile_img": "/img/uploads/banner_1080x1080-1-.png"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "views"
