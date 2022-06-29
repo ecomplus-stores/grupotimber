@@ -1,6 +1,13 @@
 {
   "sort_categories": [
-    "lancamentos"
+    "roupas",
+    "lancamentos",
+    "acessorios",
+    "copo-e-squeeze",
+    "bone",
+    "camisetas",
+    "polo",
+    "masculino"
   ],
   "phone_wpp": true,
   "socials": true,
