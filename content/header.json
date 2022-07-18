@@ -4,7 +4,11 @@
     "link": ""
   },
   "contacts_stripe": {
-    "pages": [],
+    "pages": [
+      {
+        "title": "timbercollection@grupotimber.com.br"
+      }
+    ],
     "phone_wpp": true,
     "socials": true
   },
