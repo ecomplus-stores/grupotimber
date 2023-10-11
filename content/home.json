@@ -10,18 +10,12 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 9,
+      "limit": 8,
       "page": 1,
       "collection_id": "619511db0c7c7272258721cb:categories:Lançamentos:/lancamentos",
-      "sort": "offers",
-      "headless": false
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "645512bd4bd2e929c1edeb6e:categories:LIQUIDAÇÃO/PROMOÇÃO:/promocao"
+      "sort": "news",
+      "headless": false,
+      "title": "Novidades "
     }
   ]
 }
