@@ -10,7 +10,7 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
+      "limit": 9,
       "page": 1,
       "collection_id": "619511db0c7c7272258721cb:categories:Lançamentos:/lancamentos",
       "sort": "offers",
