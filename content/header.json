@@ -14,7 +14,9 @@
   },
   "categories_list": {
     "featured": [
-      "/lancamentos?Lançamentos"
+      "/lancamentos?Lançamentos",
+      "/promocao?Liquidação/Promocão",
+      "/edicao-limitada?Edição Limitada"
     ],
     "random": 12,
     "full_width": true
