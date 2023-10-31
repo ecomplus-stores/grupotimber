@@ -14,7 +14,8 @@
   },
   "categories_list": {
     "featured": [
-      "/black-friday?Black Friday"
+      "/black-friday?Black Friday",
+      "/lancamentos?Lançamentos"
     ],
     "random": 12,
     "full_width": true
