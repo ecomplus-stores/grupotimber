@@ -14,9 +14,7 @@
   },
   "categories_list": {
     "featured": [
-      "/lancamentos?Lançamentos",
-      "/promocao?Liquidação/Promocão",
-      "/edicao-limitada?Edição Limitada"
+      "/black-friday?Black Friday"
     ],
     "random": 12,
     "full_width": true
