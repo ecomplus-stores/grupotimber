@@ -1,1 +1,9 @@
 // Add your custom CSS here.
+.product-card__rating +.badge-info {
+  font-size: 0;
+  padding: 5px !important;
+}
+.product-card__rating +.badge-info:after {
+  font-size: 15px !important;
+  content: 'Sob Encomenda';
+}
