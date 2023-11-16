@@ -29,6 +29,13 @@
       "collection_id": "65413e0e2cd6b6595992239c:collections:Campanha - Natal  2023:/campanha---natal--2023",
       "sort": "news",
       "title": "Opções de Presentes - Natal 2023 "
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": "",
+      "page": 1,
+      "sort": "views"
     }
   ]
 }
