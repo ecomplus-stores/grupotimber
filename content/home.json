@@ -14,12 +14,13 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 24,
-      "page": 2,
+      "page": 1,
       "collection_id": "6540f76f2cd6b6595991a310:collections:Black Friday:/black-friday",
       "title": "Promoção ",
-      "sort": "offers"
+      "sort": "offers",
+      "headless": false
     },
     {
       "type": "collection-shelf",
