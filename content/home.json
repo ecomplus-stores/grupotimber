@@ -7,19 +7,19 @@
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "collection_id": "619511db0c7c7272258721cb:categories:Lançamentos:/lancamentos",
-      "sort": "news",
-      "headless": false,
-      "title": "Novidades "
+      "collection_id": "645512bd4bd2e929c1edeb6e:categories:Black Friday:/blackfriday",
+      "sort": "offers",
+      "title": "Black Friday "
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "collection_id": "645512bd4bd2e929c1edeb6e:categories:Black Friday:/blackfriday",
-      "sort": "offers",
-      "title": ""
+      "collection_id": "619511db0c7c7272258721cb:categories:Lançamentos:/lancamentos",
+      "sort": "news",
+      "headless": false,
+      "title": "Novidades "
     },
     {
       "type": "collection-shelf",
