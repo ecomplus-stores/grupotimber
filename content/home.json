@@ -29,24 +29,24 @@
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "collection_id": "61950f4e0c7c727225871963:categories:Acessórios & Utensílios:/acessorios",
-      "sort": "sales"
+      "collection_id": "62b4a530eb85911216626bb6:categories:Roupas:/roupas",
+      "sort": "views"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "62b5cb74eb85911216641b02:categories:Miniaturas:/miniaturas--brinquedos",
+      "sort": "news"
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "collection_id": "62b4a530eb85911216626bb6:categories:Roupas:/roupas",
-      "sort": "views"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 24,
-      "page": 1,
-      "collection_id": "62bddcaaeb859112166e74fa:categories:Sapatos:/botas",
-      "sort": "news"
+      "collection_id": "61950f4e0c7c727225871963:categories:Acessórios & Utensílios:/acessorios",
+      "sort": "sales"
     },
     {
       "type": "collection-shelf",
@@ -58,10 +58,10 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
+      "shuffle": true,
+      "limit": 24,
       "page": 1,
-      "collection_id": "62b5cb74eb85911216641b02:categories:Miniaturas:/miniaturas--brinquedos",
+      "collection_id": "62bddcaaeb859112166e74fa:categories:Sapatos:/botas",
       "sort": "news"
     }
   ]
