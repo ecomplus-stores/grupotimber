@@ -1436,48 +1436,6 @@
     </url>
   
     <url>
-      <loc>https://grupotimber.netlify.app/campanha---natal--2023</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://grupotimber.netlify.app/timber</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://grupotimber.netlify.app/sany</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://grupotimber.netlify.app/ponsse</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://grupotimber.netlify.app/xag</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://grupotimber.netlify.app/fuchs</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://grupotimber.netlify.app/ecoflow</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://grupotimber.netlify.app/acessorios</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1556,6 +1514,48 @@
     </url>
   
     <url>
+      <loc>https://grupotimber.netlify.app/campanha---natal--2023</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://grupotimber.netlify.app/timber</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://grupotimber.netlify.app/sany</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://grupotimber.netlify.app/ponsse</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://grupotimber.netlify.app/xag</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://grupotimber.netlify.app/fuchs</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://grupotimber.netlify.app/ecoflow</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://grupotimber.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -1568,13 +1568,13 @@
     </url>
   
     <url>
-      <loc>https://grupotimber.netlify.app/pages/pagamentos</loc>
+      <loc>https://grupotimber.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://grupotimber.netlify.app/pages/faq</loc>
+      <loc>https://grupotimber.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
