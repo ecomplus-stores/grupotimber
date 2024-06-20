@@ -14,7 +14,7 @@
   },
   "categories_list": {
     "featured": [
-      "/lancamentos?Lançamentos"
+      "/lancamento?Lançamento"
     ],
     "random": 6,
     "full_width": true
