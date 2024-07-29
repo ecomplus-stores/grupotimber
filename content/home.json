@@ -3,6 +3,15 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "62b4a614eb85911216626e85:categories:Masculino:/masculino",
+      "sort": "sales",
+      "title": "Dia dos Pais "
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
@@ -23,15 +32,6 @@
           "img": "/img/uploads/jaqueta-vermelha-e-preta.png"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "62b4a614eb85911216626e85:categories:Masculino:/masculino",
-      "sort": "news",
-      "title": "Dia dos Pais "
     },
     {
       "type": "collection-shelf",
