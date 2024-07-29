@@ -40,11 +40,12 @@
       "limit": 12,
       "page": 1,
       "collection_id": "62b4a530eb85911216626bb6:categories:Roupas:/roupas",
-      "sort": "views"
+      "sort": "views",
+      "headless": true
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 12,
       "page": 1,
       "collection_id": "62b5cb74eb85911216641b02:categories:Miniaturas:/miniaturas--brinquedos",
@@ -57,7 +58,8 @@
       "limit": 12,
       "page": 1,
       "collection_id": "61950f4e0c7c727225871963:categories:Acessórios & Utensílios:/acessorios",
-      "sort": "views"
+      "sort": "views",
+      "headless": true
     },
     {
       "type": "collection-shelf",
@@ -65,7 +67,8 @@
       "limit": 24,
       "page": 1,
       "collection_id": "62b4a93deb8591121662792f:categories:Boné & Chapéu:/bone",
-      "sort": "views"
+      "sort": "views",
+      "headless": true
     },
     {
       "type": "collection-shelf",
@@ -73,7 +76,8 @@
       "limit": 24,
       "page": 1,
       "collection_id": "62bddcaaeb859112166e74fa:categories:Sapatos:/botas",
-      "sort": "news"
+      "sort": "news",
+      "headless": true
     },
     {
       "type": "brands-carousel",
