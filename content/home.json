@@ -63,6 +63,21 @@
       "page": 1,
       "collection_id": "62bddcaaeb859112166e74fa:categories:Sapatos:/botas",
       "sort": "news"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": null
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "62b4a614eb85911216626e85:categories:Masculino:/masculino",
+      "sort": "views",
+      "title": "Dia dos Pais "
     }
   ]
 }
