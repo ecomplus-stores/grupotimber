@@ -5,11 +5,12 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 12,
-      "page": 1,
+      "limit": 24,
+      "page": 2,
       "collection_id": "62b4a614eb85911216626e85:categories:Masculino:/masculino",
       "sort": "news",
-      "title": "Dia dos Pais "
+      "title": "Dia dos Pais ",
+      "headless": false
     },
     {
       "type": "banner-slider",
