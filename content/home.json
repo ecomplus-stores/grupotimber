@@ -48,7 +48,8 @@
       "limit": 12,
       "page": 1,
       "collection_id": "62b5cb74eb85911216641b02:categories:Miniaturas:/miniaturas--brinquedos",
-      "sort": "views"
+      "sort": "views",
+      "headless": true
     },
     {
       "type": "collection-shelf",
