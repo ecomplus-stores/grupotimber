@@ -3,6 +3,12 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": null
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 24,
@@ -80,10 +86,8 @@
       "headless": true
     },
     {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "sort": null
+      "type": "breadcrumbs",
+      "enabled": true
     }
   ]
 }
