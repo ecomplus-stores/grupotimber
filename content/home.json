@@ -3,26 +3,15 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "sort": null
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 24,
-      "page": 2,
-      "collection_id": "62b4a614eb85911216626e85:categories:Masculino:/masculino",
-      "sort": "news",
-      "title": "Dia dos Pais ",
-      "headless": false
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
       "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-dia-dos-pais-.jpeg"
+        },
         {
           "start": "",
           "end": "",
@@ -39,6 +28,16 @@
           "img": "/img/uploads/jaqueta-vermelha-e-preta.png"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 24,
+      "page": 2,
+      "collection_id": "62b4a614eb85911216626e85:categories:Masculino:/masculino",
+      "sort": "news",
+      "title": "Dia dos Pais ",
+      "headless": false
     },
     {
       "type": "collection-shelf",
@@ -88,6 +87,12 @@
     {
       "type": "breadcrumbs",
       "enabled": true
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": null
     }
   ]
 }
