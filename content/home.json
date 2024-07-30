@@ -3,12 +3,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "sort": null
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
@@ -93,6 +87,12 @@
     {
       "type": "breadcrumbs",
       "enabled": true
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": null
     }
   ]
 }
