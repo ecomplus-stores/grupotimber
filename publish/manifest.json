@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.8c4cc350e17891e5534d67094d52997d.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.f58c3301d3f428fd657b5934a9a26364.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.4c9f335033ed3eb7d74fda6e3033f777.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.f21ac238fd231e7038e33df36974ec07.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.5a85c584442346a9927e9e92dba696cd.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Timber Collection",
+  "short_name": "Timber Collection ",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Loja de itens do grupo Timber.\n",
+  "background_color": "#060307",
+  "theme_color": "#fdc112"
+}
