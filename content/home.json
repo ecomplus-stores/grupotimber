@@ -3,6 +3,10 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-site-.png"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -58,8 +62,16 @@
       "sort": null
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner-site-.png"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-site-02.png"
+        }
+      ]
     }
   ]
 }
