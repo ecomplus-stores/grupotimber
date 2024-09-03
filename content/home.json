@@ -3,8 +3,21 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner-site-.png"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-site-.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-site-02.png"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
@@ -60,18 +73,6 @@
       "limit": 24,
       "offset": 0,
       "sort": null
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-site-02.png"
-        }
-      ]
     }
   ]
 }
