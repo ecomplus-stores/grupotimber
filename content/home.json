@@ -4,16 +4,6 @@
   "sections": [
     {
       "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 24,
-      "page": 2,
-      "collection_id": "619513410c7c72722587267c:brands:XAG:/xag",
-      "sort": "news",
-      "title": "",
-      "headless": false
-    },
-    {
-      "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
