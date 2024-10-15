@@ -1652,12 +1652,6 @@
     </url>
   
     <url>
-      <loc>https://grupotimber.netlify.app/campanha---natal--2023</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://grupotimber.netlify.app/timber</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1689,6 +1683,12 @@
   
     <url>
       <loc>https://grupotimber.netlify.app/ecoflow</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://grupotimber.netlify.app/campanha---natal--2023</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
