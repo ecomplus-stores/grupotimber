@@ -10,6 +10,11 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/banner-site-.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/baner-todas-as-marcas.jpeg"
         },
         {
@@ -26,11 +31,6 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/whatsapp-image-2024-09-03-at-13.10.40.jpeg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/whatsapp-image-2024-09-03-at-13.10.40-1-.jpeg"
         }
       ]
     },
@@ -88,6 +88,11 @@
       "limit": 24,
       "offset": 0,
       "sort": null
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false
     }
   ]
 }
