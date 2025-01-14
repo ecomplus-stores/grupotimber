@@ -1844,13 +1844,13 @@
     </url>
   
     <url>
-      <loc>https://grupotimber.netlify.app/pages/contato</loc>
+      <loc>https://grupotimber.netlify.app/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://grupotimber.netlify.app/pages/entrega</loc>
+      <loc>https://grupotimber.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
