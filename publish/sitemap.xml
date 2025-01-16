@@ -1898,15 +1898,15 @@
     </url>
   
     <url>
-      <loc>https://grupotimber.netlify.app/</loc>
-      <changefreq>daily</changefreq>
-      <priority>1</priority>
-    </url>
-  
-    <url>
       <loc>https://grupotimber.netlify.app/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://grupotimber.netlify.app/</loc>
+      <changefreq>daily</changefreq>
+      <priority>1</priority>
     </url>
   
     <url>
