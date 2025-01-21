@@ -32,6 +32,13 @@
       "collection_id": "678fc0967841b176965f10da:categories:PROMOÇÃO LIMPA ESTOQUE:/promocao-limpa-estoque",
       "sort": "sales",
       "title": "PROMOCAO LIMPA ESTOQUE "
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "67901de07841b176965fadfa:categories:OCULOS:/oculos"
     }
   ]
 }
