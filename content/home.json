@@ -18,17 +18,13 @@
       "enabled": true
     },
     {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "sort": null
-    },
-    {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 12,
       "page": 1,
-      "collection_id": "62b4a602eb85911216626e44:categories:Feminino:/feminino"
+      "collection_id": "678fc0967841b176965f10da:categories:PROMOÇÃO LIMPA ESTOQUE:/promocao-limpa-estoque",
+      "sort": "sales",
+      "title": "PROMOCAO LIMPA ESTOQUE "
     },
     {
       "type": "collection-shelf",
