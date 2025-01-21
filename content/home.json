@@ -4,8 +4,8 @@
   "sections": [
     {
       "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
+      "shuffle": true,
+      "limit": 24,
       "page": 1,
       "collection_id": "6724c5bc86609e53f8659c7b:categories:Social:/social",
       "sort": "views",
