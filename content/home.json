@@ -4,10 +4,11 @@
   "sections": [
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 12,
       "page": 1,
-      "collection_id": "62b4a530eb85911216626bb6:categories:Roupas:/roupas"
+      "collection_id": null,
+      "sort": "lowest_price"
     },
     {
       "type": "offers-timer",
