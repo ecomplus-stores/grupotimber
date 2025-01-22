@@ -1,12 +1,12 @@
 {
   "sort_categories": [
+    "limpa-estoque",
     "roupas",
-    "lancamentos",
+    "botas",
     "acessorios",
     "copo-e-squeeze",
     "bone",
     "camisetas",
-    "limpa-estoque",
     "masculino"
   ],
   "phone_wpp": true,
