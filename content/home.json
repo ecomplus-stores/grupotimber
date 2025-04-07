@@ -31,6 +31,14 @@
       "limit": 12,
       "page": 1,
       "collection_id": "67901de07841b176965fadfa:categories:OCULOS:/oculos"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "66733cc8f4e6d85ab2b20697:categories:Lançamento:/lancamento",
+      "sort": "views"
     }
   ]
 }
