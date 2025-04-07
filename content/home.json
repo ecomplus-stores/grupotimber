@@ -3,6 +3,14 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "66733cc8f4e6d85ab2b20697:categories:Lançamento:/lancamento",
+      "sort": "views"
+    },
+    {
       "type": "offers-timer",
       "max_hours": 24,
       "start": "2025-01-21T21:57:34.519Z",
@@ -31,14 +39,6 @@
       "limit": 12,
       "page": 1,
       "collection_id": "67901de07841b176965fadfa:categories:OCULOS:/oculos"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "66733cc8f4e6d85ab2b20697:categories:Lançamento:/lancamento",
-      "sort": "views"
     }
   ]
 }
